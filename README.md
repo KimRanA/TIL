@@ -24,5 +24,5 @@
 
 CTRL+/(슬레쉬) 누르면 내가 무엇을 타이핑 했는지 알 수 있음.
 
-- [git-basic]([https://github.com/KimRanA/TIL/blob/master/git/GIT%EC%82%AC%EC%9A%A9%EB%B2%95.md](https://github.com/KimRanA/TIL/blob/master/git/GIT사용법.md))
+- [git-basic](https://github.com/KimRanA/TIL/blob/master/git/git-basic.md)
 
